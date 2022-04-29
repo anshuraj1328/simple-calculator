@@ -32,3 +32,4 @@ int main()
 	printf("\n The result of %.2f %c %.2f  = %.2f", num1, Operator, num2, result);
 	
   	return 0;
+	}
